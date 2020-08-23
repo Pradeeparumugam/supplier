@@ -9,8 +9,9 @@
 <title>First JSP</title>
 </head>
 <body>
+<h1>hiii</h1>
+<!--<c:out value="${message}"  />  -->
 
-<c:out value="${message}"  />
 
 </body>
 </html>
